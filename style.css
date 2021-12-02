@@ -437,4 +437,25 @@ body{
     .message{
         height: 207px;
         padding: 0px 0px;
+        padding: 0px 0px 150px 15px;
+    }
+    .message:focus {
+        vertical-align: middle;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba( 0, 0, 0, 0.7));;
+    }
+    .message:active{
+        vertical-align: middle;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba( 0, 0, 0, 0.7));
+    }
+    .name:active{
+        vertical-align: middle;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba( 0, 0, 0, 0.7));
+    }
+    .name:focus{
+        vertical-align: middle;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba( 0, 0, 0, 0.7));
+    }
+    .e-mail:focus{
+        vertical-align: middle;
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba( 0, 0, 0, 0.7));
     }
