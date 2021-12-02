@@ -1,0 +1,268 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 -15px;
+   }
+   header{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba( 0, 0, 0, 0.5)), url("./bgimg.png") center center no-repeat;
+    background-size: cover;
+   }
+   header div.menu{
+    height: 134px;
+    background: rgba(0, 0, 0, 0.4);
+   }
+   header div.menu a img{
+    display: block;
+    padding-top: 50px;
+    padding-left: 100px;
+   }
+   header nav ul{
+    list-style-type: none;
+    padding-right: 50px;
+    margin: 0;
+   }
+   header nav ul li{
+    display: inline-block;
+    margin-right: 50px;
+   }
+   header nav ul li a{
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+   }
+   header nav ul li a:hover{
+    color: #39b9ef;
+    text-decoration: underline;
+    }
+   header div.call-to h1{
+    margin-top: 250px;
+    margin-bottom: 0px;
+    text-align: center;
+    color: #fff;
+    font-size: 72px;
+    font-weight: bold;
+   }
+   header div.call-to h1 span{
+    color: #2ebaee;
+   }
+   header div.call-to p{
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+    margin-top:20px;
+   }
+   header div.call-to a{
+    display: block;
+    width: 215px;
+    height: 50px;
+    background: #2ebaee;
+    color: #fff;
+    border-radius: 24px;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+   }
+   .bi-search{
+       fill: white;
+   }
+   .p-2{
+       padding: 0.5rem!important;
+       margin: 40px 0px 0px 0px ;
+   }
+   .elips{
+       border: 5px solid #39B9EF;
+       width: 7px;
+       height: 7px;
+       border-radius: 50px;
+       position: absolute;
+       left: 230px;
+       top: 40px;
+   }
+   .logo{
+       position: relative;
+   }
+   .ourservice{
+       margin: 10px 240px;
+   }
+   .ourservice h1{
+       margin: 30px auto;
+   }
+   .servicecard{
+       margin: 40px 0px 0px 0px;
+       padding: 0px;
+   }
+   .service-div-h1 {
+       text-align: center;
+   }
+   .card-img-1{
+       margin: 0px 0px 0px 18px;
+       width: 80px;
+       height: 77px;
+   }
+   .card-img-2{
+    margin: 0px 0px 0px 18px;
+    width: 45px;
+    height: 70px;
+}
+.card-img-3{
+    margin: 0px 0px 0px 18px;
+    width: 66px;
+    height: 63px;
+}
+.card-img-4{
+    margin: 0px 0px 0px 18px;
+    width: 56px;
+    height: 66px;
+}
+   .card{
+       border: 0px solid black;
+   }
+   .card-title{
+    opacity:1;
+    color:#242424;
+    font-family : 'Montserrat',AdobeInvisFont,MyriadPro-Regular;
+    font-size:24px;
+    text-align:left;
+   }
+   hr{
+       margin: 60px;
+   }
+   .container{
+    min-width: 100%;
+    min-height: 1691px;
+    width: 2024px;
+    height: 100vh;
+    background:url("./Shape1.png") center center no-repeat;
+    background-size: cover;
+    margin: 0px 0px 0px 0px;
+   }
+   .butn-div{
+       text-align: center;
+   }
+   .first-top-card{
+       margin: 230px auto;
+   }
+   .card-top{
+       margin: 10px auto;
+   }
+   .top-img1{
+       margin: 150px 0px;
+   }
+   .card-top{
+       margin: 0px 0px;
+       width: 508px;
+       height:224px;
+       text-align: left;
+   }
+   .card-body .card-title .card-text{
+    opacity:1;
+    color:#878787;
+    font-family:'Montserrat',AdobeInvisFont,MyriadPro-Regular;
+    font-size:14px;
+    text-align:left;
+   }
+   .top-img2{
+       padding: 0px 0px;
+       margin: 200px 100px;
+    } 
+    .last-top-card{
+        margin: 200px 150px;
+        background-color: #24242400;
+        color:white;
+        font-family:'Montserrat'
+    }
+    .last-top-card h5{
+        color:white;
+        font-family:'Montserrat'
+    }
+    .top-1{
+        text-align: right;
+        margin: 0px -100px;
+    }
+    .top-2{
+        text-align: left;
+    }
+    .col{
+        padding: 0px 0px;
+    }
+    .btn-top-2{
+        background-color: white;
+        color:#39B9EF;
+        border:0px solid black
+    }
+    .btn-top-2{
+        background-color: white;
+        color:#39B9EF;
+    }
+    .top2 .col h1{
+        opacity:1;
+        color:#000000;
+        font-family:'Montserrat',AdobeInvisFont,MyriadPro-Regular;
+        font-size:72px;
+        text-align:left;
+    }
+    .loremh1{
+        width: 503px;
+        margin: 91px 75px;
+    }
+    .top2 .col {
+        width: 50%;
+    }
+    .loremtext{
+        margin: 91px 0px;
+        width: 508px;
+        opacity:1;
+        color:#878787;
+        font-family:'Montserrat',AdobeInvisFont,MyriadPro-Regular;
+        font-size:14px;
+        text-align:left;
+    }
+    .btn-top2{
+        background-color:#39B9EF;
+        color:white;
+        border:0px solid black;
+        border-radius: 24px;
+        font-size: 15px;
+        padding: 10px 26px;
+        font-weight: 600;
+    }
+    .top3 div{
+        width: 25%;
+        height: 437px;
+    }
+    .top3-1{
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba( 0, 0, 0, 0.7)), url("./lorem.png") center top no-repeat;
+    }
+    .top3-2{
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba( 0, 0, 0, 0.7)), url("./nunc.png") center top no-repeat;
+    }
+    .top3-3{
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba( 0, 0, 0, 0.7)), url("./nulla.png") center top no-repeat;
+    }
+    .top3-4{
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba( 0, 0, 0, 0.7)), url("./fusce.png") center top no-repeat;
+    }
+    .top3 div h2{
+        opacity:1;
+        color:#FFFFFF;
+        font-family:'Montserrat',AdobeInvisFont,MyriadPro-Regular;
+        font-size:48px;
+        text-align:left;
+        margin: 41% 5% 21% 12%;
+    }
+    .top3 .top3-1:hover{
+        background: linear-gradient(rgba(8, 69, 73, 0.527), rgba(8, 69, 73, 0.527)), url("./lorem.png") center top no-repeat;
+    }
+    .top3 .top3-2:hover{
+        background: linear-gradient(rgba(8, 69, 73, 0.527), rgba(8, 69, 73, 0.527)), url("./nunc.png") center top no-repeat;
+    }
+    .top3 .top3-3:hover{
+        background: linear-gradient(rgba(8, 69, 73, 0.527), rgba(8, 69, 73, 0.527)), url("./nulla.png") center top no-repeat;
+    }
+    .top3 .top3-4:hover{
+        background: linear-gradient(rgba(8, 69, 73, 0.527), rgba(8, 69, 73, 0.527)), url("./fusce.png") center top no-repeat;
+    }
